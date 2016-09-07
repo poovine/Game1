@@ -48,6 +48,7 @@
     <Compile Include="GameObject.cs" />
     <Compile Include="GameUI.cs" />
     <Compile Include="Morty.cs" />
+    <Compile Include="nebwe.cs" />
     <Compile Include="ScreenManager\Screens\GameScreen\GameRender\GameRender.cs" />
     <Compile Include="ScreenManager\Screens\GameScreen\GameScreen.cs" />
     <Compile Include="ScreenManager\Screens\GameScreen\GameSetup\GameSetup.cs" />
