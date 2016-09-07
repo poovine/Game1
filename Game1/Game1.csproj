@@ -60,7 +60,6 @@
     <Compile Include="ScreenManager\Screens\MenuScreen\SplashScreenRender.cs" />
     <Compile Include="Sprite.cs" />
     <Compile Include="ScreenManager\Screens\MenuScreen\SubMenuRender.cs" />
-    <Compile Include="TestGitClass.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="OpenTK">
