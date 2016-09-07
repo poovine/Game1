@@ -18,8 +18,7 @@ namespace Game1
         
 
         public GameObject() { }
-
-
+//kjlkjj//lkjlk//
        
     }
 }
