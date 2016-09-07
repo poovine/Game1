@@ -16,7 +16,11 @@ namespace Game1
 
         public string Name { get { return name; } set { name = value; } }
         
+        //test comment
 
+            //heres a second comment
+
+            //heres a 3rd comment
         public GameObject() { }
 
 
